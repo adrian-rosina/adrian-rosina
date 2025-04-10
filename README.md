@@ -1,5 +1,5 @@
 <h1 align="center">Adrián Rosiña</h1>
-<p align="center">Técnico IT | Estudiante de Desarrollo Web | Apasionado por la Ciberseguridad</p>
+<p align="center">Técnico IT | Estudiante de Desarrollo Web | Apasionado de los lenguajes de programación</p>
 
 ---
 
@@ -7,7 +7,7 @@
 
 Soy Técnico IT con experiencia en soporte a usuarios, gestión de incidencias y entornos corporativos. Actualmente compagino mi trabajo con estudios de **Desarrollo de Aplicaciones Web (DAW)** y un máster especializado en el área tecnológica.
 
-Mi objetivo es especializarme en el ámbito de la **ciberseguridad** y **desarrollo web**, aplicando buenas prácticas, automatización y un enfoque profesional orientado al detalle y la eficiencia.
+Mi objetivo es especializarme en el ámbito del **Backend**, aplicando buenas prácticas, automatización y un enfoque profesional orientado al detalle y la eficiencia.
 
 ---
 
@@ -26,7 +26,7 @@ Mi objetivo es especializarme en el ámbito de la **ciberseguridad** y **desarro
 
 - 🔧 Técnico Superior en Desarrollo de Aplicaciones Web (en curso)
 - 🎓 Máster tecnológico (en curso)
-- 📜 CompTIA Security+ (objetivo a corto plazo)
+  
 
 ---
 
