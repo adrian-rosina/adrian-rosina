@@ -5,7 +5,8 @@
 
 ### 🧑‍💻 Sobre mí
 
-Soy Técnico IT con experiencia en soporte a usuarios, gestión de incidencias y entornos corporativos. Actualmente compagino mi trabajo con estudios de **Desarrollo de Aplicaciones Web (DAW)** y un máster especializado en el área tecnológica.
+Soy Técnico IT con experiencia en soporte a usuarios, gestión de incidencias y entornos corporativos. Tras acabar **Administración de sistemas informáticos en red (ASIR)** en 2020 y estar trabajado durante este tiempo en el sector. He decidido encaminarme en esta nueva aventura para descubrir la programación.
+Actualmente compagino mi trabajo mas enfocado a redes con estudios de **Desarrollo de Aplicaciones Web (DAW)** y un máster especializado en el área tecnológica.
 
 Mi objetivo es especializarme en el ámbito del **Backend**, aplicando buenas prácticas, automatización y un enfoque profesional orientado al detalle y la eficiencia.
 
